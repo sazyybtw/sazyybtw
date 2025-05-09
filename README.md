@@ -7,8 +7,6 @@
 <p align="left>
 <a href="https://www.linkedin.com/in/lucas-bernardo-barros-correia-524936242/">
 <img
-    alt="Linkedin"
-    tittle"Linkedin profile"
     src=https://img.icons8.com/?size=30&id=13930&format=png&color=0288D1
     />
 </a>
