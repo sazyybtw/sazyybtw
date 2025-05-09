@@ -9,7 +9,7 @@
 <img
     alt="Linkedin"
     tittle"Linkedin profile"
-    src=[https://img.icons8.com/?size=30&id=98960&format=png&color=000000](https://img.icons8.com/?size=30&id=13930&format=png&color=000000)
+    src=https://img.icons8.com/?size=30&id=13930&format=png&color=0288D1
     />
 </a>
 </p>
