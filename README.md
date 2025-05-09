@@ -14,7 +14,7 @@
 </a>
 </p>
 
-My name is Lucas, I'm a Computer Science student, 21 years old, at the moment, I'm focusing on web and mobile development, as required by my university. In parallel, I work on back-end oriented projects using languages such as Python and C/C++.
+My name is Lucas, I'm a Computer Science student, 21 years old, at the moment, I'm focusing on web and mobile development (as required by my university). In parallel, I work on back-end oriented projects.
 
 ---
 ### Languages and Technologies
