@@ -119,5 +119,5 @@ My name is Lucas, I'm a Computer Science student, 21 years old, at the moment, I
     align="left"
     alt="Used Languages"
     height="200"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazyybtw&layout=compact&theme=tokyonight&custom_tittle=Technologies&langs_count=9"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazyybtw&layout=compact&theme=dark&custom_tittle=Technologies&langs_count=9"
 />
