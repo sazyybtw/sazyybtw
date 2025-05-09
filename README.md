@@ -1,16 +1,123 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sazyybtw/sazyybtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**`Full Stack Developer`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left>
+<a href="https://www.linkedin.com/in/lucas-bernardo-barros-correia-524936242/">
+<img
+    alt="Linkedin"
+    tittle"Linkedin profile"
+    src=https://img.icons8.com/?size=30&id=98960&format=png&color=000000
+    />
+</a>
+</p>
+
+My name is Lucas, I'm a Computer Science student, 21 years old, at the moment, I'm focusing on web and mobile development, as required by my university. In parallel, I work on back-end oriented projects using languages such as Python and C/C++.
+
+---
+### Languages and Technologies
+
+<img
+    align="left"
+    alt="HTML"
+    tittle="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img
+    align="left"
+    alt="CSS"
+    tittle="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img
+    align="left"
+    alt="JAVASCRIPT"
+    tittle="JAVASCRIPT"
+    width="30px"
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img
+    align="left"
+    alt="ANGULAR"
+    tittle="ANGULAR"
+    width="30px"
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+/>
+
+<img
+    align="left"
+    alt="TYPESCRIPT"
+    tittle="TYPESCRIPT"
+    width="30px"
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+
+<img
+    align="left"
+    alt="REACT"
+    tittle="REACT"
+    width="30px"
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+<img
+    align="left"
+    alt="PYTHON"
+    tittle="PYTHON"
+    width="30px"
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+    align="left"
+    alt="C"
+    tittle="C"
+    width="30px"
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+
+<img
+    align="left"
+    alt="C++"
+    tittle="C++"
+    width="30px"
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+
+<img
+    align="left"
+    alt="GIT"
+    tittle="GIT"
+    width="30px"
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<br/>
+<br/>
+
+### Statistics
+
+
+<img
+    align="left"
+    alt="Used Languages"
+    height="200"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazyybtw&layout=compact&theme=tokyonight&custom_tittle=Technologies&langs_count=9"
+/>
