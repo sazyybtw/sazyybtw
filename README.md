@@ -8,7 +8,7 @@ I'm Lucas Bernardo.
 
 [![LinkedIn: Lucas Bernardo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Lucas-Bernardo)](https://www.linkedin.com/in/lucas-bernardo-barros-correia-524936242/)
 
-My name is Lucas, I'm a Computer Science student, 21 years old, at the moment, I'm focusing on web and mobile development (as required by my university). In parallel, I work on back-end oriented projects.
+I'm a Computer Science student, 21 years old, at the moment, I'm focusing on web and mobile development (as required by my university). In parallel, I work on back-end oriented projects.
 
 ---
 ### Languages and Technologies
